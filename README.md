@@ -1,6 +1,5 @@
 ## Weather Dashboard
 
-Weather Dashboard adalah aplikasi web untuk melihat informasi cuaca real-time dan prakiraan 5 hari berbasis OpenWeather API. Pengguna dapat mencari kota dengan auto-suggest, menyimpan kota favorit, mengganti satuan suhu (Celsius/Fahrenheit), serta beralih antara light mode dan dark mode. Data cuaca (suhu, kelembapan, kecepatan angin, dan deskripsi kondisi) akan diperbarui otomatis setiap 5 menit atau bisa di-refresh secara manual.
 
 ## Hasil 
 
@@ -30,10 +29,11 @@ Contoh ketika pengguna mencari kota lain (misalnya Kertapati), menampilkan detai
 
 ![Screenshot 7](Hasil/Screenshot%202025-12-01%20211540.png)
 Screenshot 7 – Prakiraan 5 Hari (Detail Hujan)
-Fokus pada bagian tabel Prakiraan 5 Hari untuk kota yang dipilih, lengkap dengan tanggal, ikon cuaca, deskripsi (mis. hujan rintik-rintik), serta suhu maksimum dan minimum.
+Fokus pada bagian tabel Prakiraan 5 Hari untuk kota yang dipilih, lengkap dengan tanggal, ikon cuaca, deskripsi, serta suhu maksimum dan minimum.
 
 ![Screenshot 8](Hasil/Screenshot%202025-12-01%20211552.png)
 Screenshot 8 – Daftar Kota Favorit
 Menampilkan panel Kota Favorit dengan beberapa kota tersimpan (misalnya Bandar Lampung, Jakarta, Palembang) yang bisa diklik untuk memuat cuacanya dengan cepat.
+
 
 
