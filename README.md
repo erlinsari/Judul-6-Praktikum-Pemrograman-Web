@@ -24,8 +24,8 @@ Screenshot 5 – Dark Mode dengan Fahrenheit & Prakiraan 5 Hari
 Dark mode dengan satuan suhu diubah ke Fahrenheit, menampilkan cuaca saat ini sekaligus tabel prakiraan cuaca 5 hari ke depan.
 
 ![Screenshot 6](Hasil/Screenshot%202025-12-01%20211455.png)
-Screenshot 6 – Cuaca Lokasi Lain (Kertapati, ID)
-Contoh ketika pengguna mencari kota lain (misalnya Kertapati), menampilkan detail cuaca saat ini (suhu, kelembapan, angin) untuk lokasi tersebut.
+Screenshot 6 – Light Mode untuk tampilan Prakiraan 5 Hari
+Menampilkan cuaca saat ini sekaligus tabel prakiraan cuaca 5 hari ke depan.
 
 ![Screenshot 7](Hasil/Screenshot%202025-12-01%20211540.png)
 Screenshot 7 – Prakiraan 5 Hari (Detail Hujan)
@@ -34,6 +34,7 @@ Fokus pada bagian tabel Prakiraan 5 Hari untuk kota yang dipilih, lengkap dengan
 ![Screenshot 8](Hasil/Screenshot%202025-12-01%20211552.png)
 Screenshot 8 – Daftar Kota Favorit
 Menampilkan panel Kota Favorit dengan beberapa kota tersimpan (misalnya Bandar Lampung, Jakarta, Palembang) yang bisa diklik untuk memuat cuacanya dengan cepat.
+
 
 
 
