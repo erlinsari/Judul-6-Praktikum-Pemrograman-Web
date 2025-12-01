@@ -38,7 +38,8 @@ Menampilkan panel Kota Favorit dengan beberapa kota tersimpan (misalnya Bandar L
 Validasi Kesalahan “Kota Tidak Ditemukan”
 Menampilkan kondisi ketika pengguna memasukkan nama kota yang tidak tersedia. Sistem menampilkan pesan error, cuaca saat ini tidak muncul, prakiraan tidak tersedia, dan daftar favorit kosong. Fitur ini mengonfirmasi bahwa validasi input berjalan dengan benar.
 
-![Screenshot 10](Hasil/Screenshot%2025-12-01%223008.png)
+![Screenshot 10](Hasil/Screenshot2025-12-01223008.png)
+
 
 
 
