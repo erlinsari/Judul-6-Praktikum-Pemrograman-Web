@@ -5,11 +5,35 @@ Weather Dashboard adalah aplikasi web untuk melihat informasi cuaca real-time da
 ## Hasil 
 
 ![Screenshot 1](Hasil/Screenshot%202025-12-01%20211307.png)
+Screenshot 1 – Pencarian Kota & Auto-Suggest
+Menampilkan input pencarian kota dengan fitur auto-suggest (contoh: ketik “Lampung” lalu muncul beberapa pilihan kota) serta cuaca saat ini untuk kota yang sudah dipilih.
+
 ![Screenshot 2](Hasil/Screenshot%202025-12-01%20211332.png)
+Screenshot 2 – Hasil Pencarian Kota
+Setelah kota dipilih dan tombol Cari ditekan, dashboard menampilkan cuaca saat ini dan pesan status “Data berhasil diperbarui” sebagai notifikasi sukses.
+
 ![Screenshot 3](Hasil/Screenshot%202025-12-01%20211348.png)
+Screenshot 3 – Simpan Kota ke Favorit
+Menampilkan fitur Simpan Kota dengan pesan feedback (misalnya kota sudah ada di daftar favorit) untuk memberi tahu status penyimpanan kota.
+
 ![Screenshot 4](Hasil/Screenshot%202025-12-01%20211414.png)
+Screenshot 4 – Tampilan Dark Mode (Celsius)
+Contoh tampilan dashboard dalam dark mode dengan satuan suhu Celsius, lengkap dengan kartu cuaca saat ini dan komponen lainnya.
+
 ![Screenshot 5](Hasil/Screenshot%202025-12-01%20211443.png)
+Screenshot 5 – Dark Mode dengan Fahrenheit & Prakiraan 5 Hari
+Dark mode dengan satuan suhu diubah ke Fahrenheit, menampilkan cuaca saat ini sekaligus tabel prakiraan cuaca 5 hari ke depan.
+
 ![Screenshot 6](Hasil/Screenshot%202025-12-01%20211455.png)
+Screenshot 6 – Cuaca Lokasi Lain (Kertapati, ID)
+Contoh ketika pengguna mencari kota lain (misalnya Kertapati), menampilkan detail cuaca saat ini (suhu, kelembapan, angin) untuk lokasi tersebut.
+
 ![Screenshot 7](Hasil/Screenshot%202025-12-01%20211540.png)
+Screenshot 7 – Prakiraan 5 Hari (Detail Hujan)
+Fokus pada bagian tabel Prakiraan 5 Hari untuk kota yang dipilih, lengkap dengan tanggal, ikon cuaca, deskripsi (mis. hujan rintik-rintik), serta suhu maksimum dan minimum.
+
 ![Screenshot 8](Hasil/Screenshot%202025-12-01%20211552.png)
+Screenshot 8 – Daftar Kota Favorit
+Menampilkan panel Kota Favorit dengan beberapa kota tersimpan (misalnya Bandar Lampung, Jakarta, Palembang) yang bisa diklik untuk memuat cuacanya dengan cepat.
+
 
