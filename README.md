@@ -34,11 +34,9 @@ Fokus pada bagian tabel Prakiraan 5 Hari untuk kota yang dipilih, lengkap dengan
 Daftar Kota Favorit
 Menampilkan panel Kota Favorit dengan beberapa kota tersimpan (misalnya Bandar Lampung, Jakarta, Palembang) yang bisa diklik untuk memuat cuacanya dengan cepat.
 
-![Screenshot 9](Hasil/Screenshot%202025-12-01%20223008.png)
+![Screenshot 9](Hasil/Screenshot2025-12-01223008.png)
 Validasi Kesalahan “Kota Tidak Ditemukan”
 Menampilkan kondisi ketika pengguna memasukkan nama kota yang tidak tersedia. Sistem menampilkan pesan error, cuaca saat ini tidak muncul, prakiraan tidak tersedia, dan daftar favorit kosong. Fitur ini mengonfirmasi bahwa validasi input berjalan dengan benar.
-
-![Screenshot 10](Hasil/Screenshot2025-12-01223008.png)
 
 
 
