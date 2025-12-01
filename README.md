@@ -1,6 +1,7 @@
 ## Weather Dashboard
 
 ## Hasil 
+https://erlinsari.github.io/Judul-6-Praktikum-Pemrograman-Web/
 
 ![Screenshot 1](Hasil/Screenshot%202025-12-01%20211307.png)
 Pencarian Kota & Auto-Suggest
@@ -37,6 +38,7 @@ Menampilkan panel Kota Favorit dengan beberapa kota tersimpan (misalnya Bandar L
 ![Screenshot 9](Hasil/Screenshot%202025-12-01%20223008.png)
 Validasi Kesalahan “Kota Tidak Ditemukan”
 Menampilkan kondisi ketika pengguna memasukkan nama kota yang tidak tersedia. Sistem menampilkan pesan error, cuaca saat ini tidak muncul, prakiraan tidak tersedia, dan daftar favorit kosong. Fitur ini mengonfirmasi bahwa validasi input berjalan dengan benar.
+
 
 
 
