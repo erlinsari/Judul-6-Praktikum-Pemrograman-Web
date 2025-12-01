@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <title>Weather Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="cloud cloud-1"></div>
+  <div class="cloud cloud-2"></div>
+  <div class="cloud cloud-3"></div>
+
+  <div class="app">
+    <header class="app-header">
+      <h1 class="app-title">Weather Dashboard</h1>
+
+      <div class="top-buttons">
+        <button id="unitToggle" class="chip">
+          🌡️ Satuan: <span id="unitLabel">Celsius (°C)</span>
+        </button>
+
+        <button id="themeToggle" class="chip">
+          🌙 Mode: <span id="themeLabel">Light</span>
+        </button>
+
+        <button id="refreshBtn" class="chip primary">
+          🔄 Refresh Sekarang
+        </button>
+
+        <span id="autoRefreshText" class="muted small">
+          ⏱ Auto refresh setiap 5 menit (aktif)
+        </span>
+      </div>
+    </header>
+
+    <main>
+      <section class="layout">
+        <div class="column-left">
+          <article class="card">
+            <h2>Pencarian Cuaca</h2>
+            <div class="search-row">
+              <div class="search-wrapper">
+                <input id="cityInput" type="text" placeholder="Cari kota (misal: Jakarta, Tokyo, London)" autocomplete="off" />
+                <div id="suggestions" class="suggestions hidden"></div>
+              </div>
+              <button id="searchBtn" class="btn primary">Cari</button>
+              <button id="saveFavoriteBtn" class="btn ghost">⭐ Simpan Kota</button>
+            </div>
+            <p id="searchStatus" class="muted small"></p>
+          </article>
+
+          <article class="card">
+            <div class="card-header-row">
+              <h2>Cuaca Saat Ini</h2>
+              <span id="lastUpdated" class="muted small"></span>
+            </div>
+            <div id="currentWeather" class="current-weather empty">
+              Belum ada data. Silakan cari kota terlebih dahulu.
+            </div>
+          </article>
+        </div>
+
+        <aside class="column-right">
+          <article class="card">
+            <h2>Kota Favorit</h2>
+            <p class="muted small">Klik kota untuk memuat cuacanya.</p>
+            <div id="favoriteList" class="favorite-list"></div>
+          </article>
+        </aside>
+      </section>
+
+      <section class="card forecast-card">
+        <h2>Prakiraan 5 Hari</h2>
+        <div id="forecast" class="forecast-list empty">
+          Data prakiraan akan muncul setelah Anda mencari kota.
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
