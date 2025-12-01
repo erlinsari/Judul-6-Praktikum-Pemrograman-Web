@@ -36,6 +36,7 @@ Fokus pada bagian tabel Prakiraan 5 Hari untuk kota yang dipilih, lengkap dengan
 Daftar Kota Favorit
 Menampilkan panel Kota Favorit dengan beberapa kota tersimpan (misalnya Bandar Lampung, Jakarta, Palembang) yang bisa diklik untuk memuat cuacanya dengan cepat.
 
+![Screenshot 8](Hasil/Screenshot%2025-12-01%223008.png)
 
 
 
